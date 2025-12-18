@@ -1,0 +1,15 @@
+ATMS 523 - FINAL PROJECT
+
+The Identification of Moisture Pathways Associated with Widespread Extreme Precipitation in the Great Lakes
+
+This project investigates the role of large-scale moisture transport and moisture flux convergence (MFC) in driving widespread extreme precipitation events over the Great Lakes region. 
+Using ERA5 reanalysis and Stage IV precipitation data, the study links moisture dynamics (Domain 2) to regional-scale extreme precipitation impacts (Domain 1).
+
+Requirements:
+xarray, numpy, pandas
+metpy
+scikit-learn
+eofs
+shap
+matplotlib, cartopy
+bokeh
